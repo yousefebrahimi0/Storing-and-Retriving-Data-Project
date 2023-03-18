@@ -25,3 +25,5 @@ MonthlyAverage (of the given period)
   4. Get the total sales/bookings/rents/deliveries by geographical location (city/country).
   5. List all the locations where products/services were sold, and the product has customer’s ratings (Yes, your ERD must consider that customers can give ratings).
 + G. Your business process includes the generation of an INVOICE (the invoice in next page is just an example). Create two views to recreate the information on the INVOICE, one view for the head and totals, one view for the details.
+
+### Licence: Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND 4.0)
